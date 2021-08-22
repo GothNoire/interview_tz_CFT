@@ -1,4 +1,4 @@
---Таблица каталога продуктов
+ --Таблица каталога продуктов
 CREATE TABLE catalog (
 cid NUMBER,
 par_cid NUMBER,
